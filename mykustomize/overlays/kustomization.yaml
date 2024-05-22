@@ -1,7 +1,0 @@
-resources:
-  - ../../base
-
-namePrefix: dev-
-
-patchesStrategicMerge:
-  - ingress-patch.yaml
